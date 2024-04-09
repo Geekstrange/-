@@ -20,10 +20,11 @@ pip install Flask
 **三、程序结构**
 
 ```
-/Flaskproject
-    /templates
-        # 存放HTML模板文件
-    app.py
+flaskProject
+├templates
+│  ├─login.html
+│  └─user.html
+└app.py
 ```
 
 **四、使用方法**
