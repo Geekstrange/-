@@ -23,7 +23,7 @@ pip install Flask
 flaskProject
 ├templates
 │  ├─login.html
-│  └─user.html
+│  └─upload.html
 └app.py
 ```
 
