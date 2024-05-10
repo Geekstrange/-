@@ -6,6 +6,7 @@
 
 **二、许可证**
 
+![CC-BY-NC-SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)
 本项目使用CC-BY-NC-SA许可证。
 
 **三、鸣谢**
